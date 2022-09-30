@@ -1,3 +1,6 @@
+/**
+ * @author Marlon Azua
+ */
 //RECARGAR
 function recargar (){
    location.reload();
@@ -77,9 +80,9 @@ addEventListener('DOMContentLoaded',Ev_OnClick)
 
 //ARRAY DE COMPROBACION PARA LA CREACION DE SLIDES
 const comprobanteImg= ["../Img articulos/ImgRopa/jeans negros.jpeg","../Img articulos/ImgRopa/vestido palo rosa.jpeg","../Img articulos/ImgRopa/vestido jolie negro.jpeg",
-"../Img articulos/ImgRopa/Blusa rojo vino nozz.jpeg", "../Img articulos/imgPerfume/PerfumE adrenaline.jpeg", "../Img articulos/imgPerfume/di que si2.jpeg"];
+"../Img articulos/ImgRopa/Blusa rojo vino nozz.jpeg", "../Img articulos/imgPerfume/PerfumE adrenaline.jpeg", "../Img articulos/imgPerfume/di que si2.jpeg","../Img articulos/ImgArticulos/licua 3.jpg", "../Img articulos/ImgArticulos/Parrilla1.jfif", "../Img articulos/ImgArticulos/secadora 2.png", "../Img articulos/ImgArticulos/sanduchera.jfif", "../Img articulos/ImgArticulos/sarten 1.jpg", "../Img articulos/ImgArticulos/licua home.png", "../Img articulos/ImgArticulos/licuadora wotto.png","../Img articulos/ImgArticulos/billetera de mujer.jpeg", "../Img articulos/ImgCosmeticos/crema antiedad.jpeg"];
 const imgMaches=["../Img articulos/ImgRopa/jeans negro2.jpeg","../Img articulos/ImgRopa/vestido palo rosa2.jpeg","../Img articulos/ImgRopa/vestido jolie negro2.jpeg",
-"../Img articulos/ImgRopa/Blusa rojo vino nozz2.jpeg", "../Img articulos/imgPerfume/adrenaline 2.jpeg", "../Img articulos/imgPerfume/Di que si1.jpeg"];
+"../Img articulos/ImgRopa/Blusa rojo vino nozz2.jpeg", "../Img articulos/imgPerfume/adrenaline 2.jpeg", "../Img articulos/imgPerfume/Di que si1.jpeg","../Img articulos/ImgArticulos/licu 2.jfif", "../Img articulos/ImgArticulos/parrilla 2.jpg", "../Img articulos/ImgArticulos/secador.jpeg", "../Img articulos/ImgArticulos/sanduchera 2.jpg", "../Img articulos/ImgArticulos/sarten 2.jpg", "../Img articulos/ImgArticulos/licua home 2.png", "../Img articulos/ImgArticulos/lica g 2.jfif","../Img articulos/ImgArticulos/2billetera de mujer.jpeg", "../Img articulos/ImgCosmeticos/crema antiedad2.jpeg"];
 
 
 let slideIndex= 1;
@@ -117,7 +120,7 @@ document.querySelectorAll('.imgDeArticulos').forEach(item=>{
                                  '<img id="botonCerrarImg" src="../Img articulos/Bton cerrarIMG.png">'+
                                  '<a id="prev" onclick="plusSliden(-1) ">&#10094;</a>'+
                                  '<a id="next" onclick="plusSliden(1)" >&#10095;</a>'+
-                              '</div>'/* +'<script src="../controlador.js"></script>' */;
+                              '</div>';
             contenedor.appendChild(newDiv);
             
             let variable=document.getElementById("variable");
