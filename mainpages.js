@@ -44,7 +44,7 @@ function NoneDropDownBar(){
    
 }
 function Search(evento){
-   alert("Se esta buscando");
+   alert("Estos son los resultados encontrados");
 }
 
 
