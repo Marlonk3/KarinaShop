@@ -56,10 +56,9 @@ function NoneDropDownBar(){
 function Search(evento){
    alert("Se esta buscando");
 }
-// let ComeBackButtonMenu = document.getElementById('MenuComeBackButton');
-// ComeBackButtonMenu.onclick = NoneDropDownBar;
+/**buscar barra */
 
-const Ev_OnClick =()=>{
+/* const Ev_OnClick =()=>{
    let ButtonSearch;
    ButtonSearch = document.getElementById('buscar');
    let NewBuscarForP;
@@ -79,7 +78,9 @@ const Ev_OnClick =()=>{
    }
 }
 addEventListener('resize', Ev_OnClick)
-addEventListener('DOMContentLoaded',Ev_OnClick)
+addEventListener('DOMContentLoaded',Ev_OnClick) */
+
+/************************** */
 //SLIDES
 let slideIndex= 1;
 showSlides(slideIndex);
