@@ -155,7 +155,7 @@ crearNuevoProducto("Crema antiedad", "Yanbal", "Body Spa ",'Crema antiedad para 
 //Desodorantes para hombre ESIKA
 crearNuevoProducto("Desodorantes", "Ésika", "Desodorantes Ésika ",'Desodorantes para hombre Ésika, Leyenda, magna, pulso.',"3.00 c/u", "../Img articulos/ImgCosmeticos/desodorante para hombre 3.jpeg", false);
 //Combo Sombras 6 tonos + brillo labial
-crearNuevoProducto("Combo", "L.A Colors", "Combo Sombras brillo + labial  ",'Sombras 6 tonos + brillo labial.',"7.00", "../Img articulos/ImgCosmeticos/sombra 6 labial.jpeg", false);
+crearNuevoProducto("Combo", "L.A Colors", "Combo Sombras brillo + labial  ",'Sombras 6 tonos + brillo labial.',"7.00", "../Img articulos/ImgCosmeticos/sombra 6 labial.jpeg", true);
 //Colonia Aromaterapia Relajante YANBAL
 crearNuevoProducto("Colonia Relajante", "Yanbal", "Colonia Aromaterapia",'Colonia Aromaterapia Relajante de Yambal .',"16.00", "../Img articulos/ImgCosmeticos/colonia aromaterapia.jpeg", false);
 //Combo Sombra para ojos + brillo labial + lápiz delineador para ojos
@@ -175,7 +175,7 @@ crearNuevoProducto("Crema", "Avon", "Care",'Cremas de 1 litro.',"9.00 c/u", "../
 //Jabón Intimo Cyzone 
 crearNuevoProducto("Jabón intimo", "Cyzone", "Jabón intims",'Jabon Intimo Cyzone PH balanceado, ginecológicamente testeado.',"6.00", "../Img articulos/ImgCosmeticos/new jabon intimo1.jpeg", false);
 //MÁSCARA MEGA FULL SIZE Color Negro ESIKA
-crearNuevoProducto("Máscara", "Ésika", "Mascara Mega full size",'Mascara Mega full size color negro.',"7.00", "../Img articulos/ImgCosmeticos/mascara megafull.jpeg", false);
+crearNuevoProducto("Máscara", "Ésika", "Mascara Mega full size",'Mascara Mega full size color negro.',"8.00", "../Img articulos/ImgCosmeticos/mascara megafull.jpeg", false);
 //Labial máximo color e hidratación Yanbal
 crearNuevoProducto("Labial", "Yanbal", "Hydra-lips",'Labial máximo color e hidratación Yanbal.',"7.00 c/u", "../Img articulos/ImgCosmeticos/labial maximo color.jpeg", false);
 //Desmaquillador para maquillaje a prueba de agua y de largo duración Yanbal
