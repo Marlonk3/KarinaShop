@@ -163,7 +163,7 @@ crearNuevoProducto("Perfume Femenino", "L'Bel", "Mithyka floral ", "25.00", "../
 //Belessa by Ále
 crearNuevoProducto("Perfume Femenino", "Ésika", "Belessa by Ále", "20.00", "../Img articulos/imgPerfume/belessa.png", false);
 //Mithyka zaffyr
-crearNuevoProducto("Perfume Femenino", "L'Bel", "Mithyka zaffyr", "25.00", "../Img articulos/imgPerfume/mithyka zaffyr.jpg", false);
+crearNuevoProducto("Perfume Femenino", "L'Bel", "Mithyka zaffyr", "25.00", "../Img articulos/imgPerfume/mithyka zaffyr.jpg", true);
 //Inspira
 crearNuevoProducto("Perfume Femenino", "Ésika", "Inspira", "20.00", "../Img articulos/imgPerfume/inspira.png", false);
 //L'image Radiant
@@ -180,7 +180,7 @@ crearNuevoProducto("Perfume Masculino", "Ésika", "Privé Homme", "24.00", "../I
 crearNuevoProducto("Perfume Masculino", "Ésika", "Magnat Select", "6.00", "../Img articulos/imgPerfume/magnat select 1.jpeg", true);
 //leyenda absolute
 crearNuevoProducto("Perfume Masculino", "Ésika", "Leyenda Absolute", "6.00", "../Img articulos/imgPerfume/leyenda absolute.png", true);
-//
+//Mini Chics
 crearNuevoProducto("Colonia de niña", "Ésika", "Mini Chics", "6.00", "../Img articulos/imgPerfume/mini chics.jpeg", true);
 //black suede
 crearNuevoProducto("Perfume Masculino", "Avon", "Black Sude", "15.00", "../Img articulos/imgPerfume/black suede.png", true);
