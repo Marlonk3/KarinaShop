@@ -20,13 +20,13 @@ import { Joya } from "./ArticuloMolde.js";
 //Pulcera de niña
 crearNuevoProducto("Pulsera de niña", "Ésika", "Beary Fun","15.00", "../Img articulos/ImgJoyas/pulsera niña.jpeg", false);
 //Colección Aguajal
-crearNuevoProducto("Colección", "Yanbal", "Aguajal","18.00", "../Img articulos/ImgJoyas/coleccion aguajal.jpeg", false);
+crearNuevoProducto("Colección", "Yanbal", "Aguajal","18.00", "../Img articulos/ImgJoyas/coleccion aguajal.jpeg", true);
 //Aretes Sarar
-crearNuevoProducto("Aretes", "Yanbal", "Sara","12.00", "../Img articulos/ImgJoyas/aretes sarar.jpeg", false);
+crearNuevoProducto("Aretes", "Yanbal", "Sara","12.00", "../Img articulos/ImgJoyas/aretes sarar.jpeg", true);
 //Aretes de niña
 crearNuevoProducto("Aretes", "Ésika", "niña","9.00", "../Img articulos/ImgJoyas/aretes para niña.jpeg", false);
 //Pulsera Gold tree "Finart"
-crearNuevoProducto("Pulsera", "Ésika", 'Gold tree "Finart"',"18.00", "../Img articulos/ImgJoyas/Pulsera.png", false);
+crearNuevoProducto("Pulsera", "Ésika", 'Gold tree "Finart"',"18.00", "../Img articulos/ImgJoyas/Pulsera.png", true);
 //Aretes "Florepin"
 crearNuevoProducto("Aretes", "Yanbal", 'Florepin',"10.00", "../Img articulos/ImgJoyas/florepin.png", false);
 //Aretes "Cameo"
