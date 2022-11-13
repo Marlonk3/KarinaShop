@@ -174,7 +174,7 @@ crearNuevoProducto("Licuadora", "Home Elements", "Licuadora Home Elements",'Vaso
 //Kit de 2 piezas Tramontina Brasileño
 crearNuevoProducto("Kit de 2 piezas", "Tramontina", "Tramontina Brasileño",'Aluminio con revestimiento interno y externo de antiadherente Starflon, Mangos de baquelita antitérmica, Para cocinas a gas, electricas y vitrocerámico, No se pega y es facil de limpiar',"40.00", "../Img articulos/ImgArticulos/tramotinaBrasileno.jpeg", false);
 //Set tres piezas Umco
-crearNuevoProducto("Set tres piezas", "Umco", "Set tres piezas Umco",'3 piezas, 1 wolk, Tapa de vidrio, 1 Olla',"25.00", "../Img articulos/ImgArticulos/bateria roja.jpeg", false);
+crearNuevoProducto("Set tres piezas", "Umco", "Set tres piezas Umco",'3 piezas, 1 wolk, Tapa de vidrio, 1 Olla',"25.00", "../Img articulos/ImgArticulos/bateria roja.jpeg", true);
 //Licuadora Wotto
 crearNuevoProducto("Licuadora", "Wotto", "Licuadora Wotto",'Vaso de de vidrio, 1.5L de Capacidad, 4 velocidades mas pulso, Cuchillos de acero inoxidable',"20.00", "../Img articulos/ImgArticulos/licuadora wotto.png", false);
 //Billetera mujer Cyzone
